@@ -1,0 +1,21 @@
+{
+  "name": "tetris-game",
+  "version": "1.0.0",
+  "description": "A simple Tetris game implemented in TypeScript.",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && open public/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "keywords": [
+    "tetris",
+    "game",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
